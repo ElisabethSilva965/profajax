@@ -15,6 +15,15 @@
             <a href="Contato"> Contato </a> /
         </nav>
         <main>
+            <form>
+                Nome:<input type="text" name="nome"> <br>
+                E-mail:<input type="email" name="email"> <br>
+                
+                Mensagem: <br>
+                <textarea name="msg" rows="5" cols="40"></textarea>
+                <br>
+                <button>Enviar</button>
+            </form>
             
         </main>
     <footer>
